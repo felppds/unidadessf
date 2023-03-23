@@ -1,0 +1,260 @@
+[
+      {
+        "key": "ARP1",
+        "latitude": -23.410626298777416,
+        "longitude": -51.46846695333202,
+        "name": "ARP"
+      },
+      {
+        "key": "ARP2",
+        "latitude": -23.411768330053665,
+        "longitude": -51.468631078027336,
+        "name": "ARP"
+      },
+      {
+        "key": "BEL1",
+        "latitude": -1.3645020073062755,
+        "longitude": -48.27801683885906,
+        "name": "BEL"
+      },
+      {
+        "key": "BEL2",
+        "latitude": -1.36485677343587,
+        "longitude": -48.27775870470811,
+        "name": "BEL"
+      },
+      {
+        "key": "BEL3",
+        "latitude": -1.3648519902403449,
+        "longitude": -48.27843970601489,
+        "name": "BEL"
+      },
+      {
+        "key": "BSB1",
+        "latitude": -16.042495267165844,
+        "longitude": -47.974730930303416,
+        "name": "BSB"
+      },
+      {
+        "key": "BSB2",
+        "latitude": -16.04277269340195,
+        "longitude": -47.97501002919963,
+        "name": "BSB"
+      },
+      {
+        "key": "CCV1",
+        "latitude": -24.99132978190087,
+        "longitude": -53.51254373613968,
+        "name": "CCV"
+      },
+      {
+        "key": "CCV2",
+        "latitude": -24.991018603475013,
+        "longitude": -53.51277038278649,
+        "name": "CCV"
+      },
+      {
+        "key": "CGB1",
+        "latitude": -15.692466791385433,
+        "longitude": -56.02111761095327,
+        "name": "CGB"
+      },
+      {
+        "key": "CGB2",
+        "latitude": -15.692530113662434,
+        "longitude": -56.021093106677924,
+        "name": "CGB"
+      },
+      {
+        "key": "CGD1",
+        "latitude": -20.469110226481032,
+        "longitude": -54.723010359945086,
+        "name": "CGD"
+      },
+      {
+        "key": "CSC1",
+        "latitude": -21.225792502635553,
+        "longitude": -47.83648625074974,
+        "name": "CSC"
+      },
+      {
+        "key": "CSC2",
+        "latitude": -21.225702628258002,
+        "longitude": -47.83638326194101,
+        "name": "CSC"
+      },
+      {
+        "key": "CVD1",
+        "latitude": -15.545724901218273,
+        "longitude": -55.16669395653398,
+        "name": "CVDI"
+      },
+      {
+        "key": "CVD2",
+        "latitude": -15.548281631932753,
+        "longitude": -55.16985814075339,
+        "name": "CVDII"
+      },
+      {
+        "key": "CWB1",
+        "latitude": -25.504949753656344,
+        "longitude": -49.136005576840674,
+        "name": "CWBII"
+      },
+      {
+        "key": "CWB2",
+        "latitude": -25.504949148450706,
+        "longitude": -49.13594053327636,
+        "name": "CWBII"
+      },
+      {
+        "key": "CWB3",
+        "latitude": -25.53557535015674,
+        "longitude": -49.07598236455092,
+        "name": "CWBIII"
+      },
+      {
+        "key": "CWB4",
+        "latitude": -25.53520989866027,
+        "longitude": -49.07593676700067,
+        "name": "CWBIII"
+      },
+      {
+        "key": "ITA1",
+        "latitude": -26.069484051165382,
+        "longitude": -48.857190481651834,
+        "name": "ITA"
+      },
+      {
+        "key": "ITA2",
+        "latitude": -26.069575402359536,
+        "longitude": -48.85749990210132,
+        "name": "ITA"
+      },
+      {
+        "key": "LDN",
+        "latitude": -23.281010787270375,
+        "longitude": -51.29855863804934,
+        "name": "LDN"
+      },
+      {
+        "key": "LDN1",
+        "latitude": -23.28101389499216,
+        "longitude": -51.29855638258955,
+        "name": "LDN"
+      },
+      {
+        "key": "LDN2",
+        "latitude": -23.28503787745852,
+        "longitude": -51.31043629511588,
+        "name": "LDNII"
+      },
+      {
+        "key": "LDN3",
+        "latitude": -23.285135369742296,
+        "longitude": -51.310279026081155,
+        "name": "LDNII"
+      },
+      {
+        "key": "MAO1",
+        "latitude": -3.105403541570654,
+        "longitude": -59.93531784904725,
+        "name": "MAO"
+      },
+      {
+        "key": "MAQ1",
+        "latitude": -23.569853940348533,
+        "longitude": -47.175039358473455,
+        "name": "MAQ"
+      },
+      {
+        "key": "MAQ2",
+        "latitude": -23.569729687481075,
+        "longitude": -47.17510634221196,
+        "name": "MAQ"
+      },
+      {
+        "key": "MGG1",
+        "latitude": -22.29878978303163,
+        "longitude": -46.96928738522154,
+        "name": "MGG"
+      },
+      {
+        "key": "MGG2",
+        "latitude": -22.298820041505056,
+        "longitude": -46.96908777702953,
+        "name": "MGG"
+      },
+      {
+        "key": "MLA1",
+        "latitude": -22.214038770093666,
+        "longitude": -49.852059329612175,
+        "name": "MLA"
+      },
+      {
+        "key": "ML2",
+        "latitude": -22.214413553914447,
+        "longitude": -49.85214928201166,
+        "name": "MLA"
+      },
+      {
+        "key": "MLA3",
+        "latitude": -22.21425833361104,
+        "longitude": -49.85254713961711,
+        "name": "MLA"
+      },
+      {
+        "key": "POA",
+        "latitude": -29.871489528810685,
+        "longitude": -51.244752922033605,
+        "name": "POA"
+      },
+      {
+        "key": "RMSP",
+        "latitude": -23.598363419614408,
+        "longitude": -46.80589127805936,
+        "name": "RMSP"
+      },
+      {
+        "key": "RMSP1",
+        "latitude": -23.5982417593686,
+        "longitude": -46.80548540393497,
+        "name": "RMSP"
+      },
+      {
+        "key": "RMSP2",
+        "latitude": -23.510469617211,
+        "longitude": -46.81913284419,
+        "name": "RMSPII"
+      },
+      {
+        "key": "RMSP3",
+        "latitude": -23.51080522540645,
+        "longitude": -46.818255345904085,
+        "name": "RMSPII"
+      },
+      {
+        "key": "RP1",
+        "latitude": -21.093949376029567,
+        "longitude": -47.80306266272927,
+        "name": "RPI"
+      },
+      {
+        "key": "RP2",
+        "latitude": -21.093669791706397,
+        "longitude": -47.80326939300758,
+        "name": "RPI"
+      },
+      {
+        "key": "VGS1",
+        "latitude": -21.830474856999118,
+        "longitude": -46.9356405478754,
+        "name": "VGS"
+      },
+      {
+        "key": "VGS2",
+        "latitude": -21.83034909796368,
+        "longitude": -46.9356807508803,
+        "name": "VGS"
+      }
+    ]

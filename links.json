@@ -1,0 +1,260 @@
+[
+      {
+        "key": "FW-ARP-LINK-Sercomtel",
+        "latitude": -23.410626298777416,
+        "longitude": -51.46846695333202,
+        "name": "ARP"
+      },
+      {
+        "key": "FW-ARP-LINK-Vivo",
+        "latitude": -23.411768330053665,
+        "longitude": -51.468631078027336,
+        "name": "ARP"
+      },
+      {
+        "key": "FW-BEL-LINK-Amplitude",
+        "latitude": -1.3645020073062755,
+        "longitude": -48.27801683885906,
+        "name": "BEL"
+      },
+      {
+        "key": "FW-BEL-LINK-Linkfire",
+        "latitude": -1.36485677343587,
+        "longitude": -48.27775870470811,
+        "name": "BEL"
+      },
+      {
+        "key": "FW-BEL-LINK-Microset",
+        "latitude": -1.3648519902403449,
+        "longitude": -48.27843970601489,
+        "name": "BEL"
+      },
+      {
+        "key": "FW-BSB-LINK-Fixtel",
+        "latitude": -16.042495267165844,
+        "longitude": -47.974730930303416,
+        "name": "BSB"
+      },
+      {
+        "key": "FW-BSB-LINK-Vivo",
+        "latitude": -16.04277269340195,
+        "longitude": -47.97501002919963,
+        "name": "BSB"
+      },
+      {
+        "key": "FW-CCV-LINK-Certto",
+        "latitude": -24.99132978190087,
+        "longitude": -53.51254373613968,
+        "name": "CCV"
+      },
+      {
+        "key": "FW-CCV-LINK-Copel",
+        "latitude": -24.991018603475013,
+        "longitude": -53.51277038278649,
+        "name": "CCV"
+      },
+      {
+        "key": "FW-CGB-LINK-Megalink",
+        "latitude": -15.692466791385433,
+        "longitude": -56.02111761095327,
+        "name": "CGB"
+      },
+      {
+        "key": "FW-CGB-LINK-Microset",
+        "latitude": -15.692530113662434,
+        "longitude": -56.021093106677924,
+        "name": "CGB"
+      },
+      {
+        "key": "FW-CGD-LINK-Idl",
+        "latitude": -20.469110226481032,
+        "longitude": -54.723010359945086,
+        "name": "CGD"
+      },
+      {
+        "key": "FW-CSC-LINK-Microset",
+        "latitude": -21.225792502635553,
+        "longitude": -47.83648625074974,
+        "name": "CSC"
+      },
+      {
+        "key": "FW-CSC-LINK-Iftnet",
+        "latitude": -21.225702628258002,
+        "longitude": -47.83638326194101,
+        "name": "CSC"
+      },
+      {
+        "key": "FW-CVDI-LINK-Primatec",
+        "latitude": -15.545724901218273,
+        "longitude": -55.16669395653398,
+        "name": "CVDI"
+      },
+      {
+        "key": "FW-CVDII-LINK-Primatec",
+        "latitude": -15.548281631932753,
+        "longitude": -55.16985814075339,
+        "name": "CVDII"
+      },
+      {
+        "key": "FW-CWBII-LINK-BrDigital",
+        "latitude": -25.504949753656344,
+        "longitude": -49.136005576840674,
+        "name": "CWBII"
+      },
+      {
+        "key": "FW-CWBII-LINK-McmTelecom",
+        "latitude": -25.504949148450706,
+        "longitude": -49.13594053327636,
+        "name": "CWBII"
+      },
+      {
+        "key": "FW-CWBIII-LINK-Ligga",
+        "latitude": -25.53557535015674,
+        "longitude": -49.07598236455092,
+        "name": "CWBIII"
+      },
+      {
+        "key": "FW-CWBIII-LINK-Microset",
+        "latitude": -25.53520989866027,
+        "longitude": -49.07593676700067,
+        "name": "CWBIII"
+      },
+      {
+        "key": "FW-ITA-LINK-Microset",
+        "latitude": -26.069484051165382,
+        "longitude": -48.857190481651834,
+        "name": "ITA"
+      },
+      {
+        "key": "FW-ITA-LINK-Ot",
+        "latitude": -26.069575402359536,
+        "longitude": -48.85749990210132,
+        "name": "ITA"
+      },
+      {
+        "key": "FW-LDN-LINK-Copel",
+        "latitude": -23.281010787270375,
+        "longitude": -51.29855863804934,
+        "name": "LDN"
+      },
+      {
+        "key": "FW-LDN-LINK-Microset",
+        "latitude": -23.28101389499216,
+        "longitude": -51.29855638258955,
+        "name": "LDN"
+      },
+      {
+        "key": "FW-LDNII-LINK-Copel",
+        "latitude": -23.28503787745852,
+        "longitude": -51.31043629511588,
+        "name": "LDNII"
+      },
+      {
+        "key": "FW-LDNII-LINK-Sercomtel",
+        "latitude": -23.285135369742296,
+        "longitude": -51.310279026081155,
+        "name": "LDNII"
+      },
+      {
+        "key": "FW-MAO-LINK-Microset",
+        "latitude": -3.105403541570654,
+        "longitude": -59.93531784904725,
+        "name": "MAO"
+      },
+      {
+        "key": "FW-MAQ-LINK-Microset",
+        "latitude": -23.569853940348533,
+        "longitude": -47.175039358473455,
+        "name": "MAQ"
+      },
+      {
+        "key": "FW-MAQ-LINK-Vivo",
+        "latitude": -23.569729687481075,
+        "longitude": -47.17510634221196,
+        "name": "MAQ"
+      },
+      {
+        "key": "FW-MGG-LINK-ArTelecom",
+        "latitude": -22.29878978303163,
+        "longitude": -46.96928738522154,
+        "name": "MGG"
+      },
+      {
+        "key": "FW-MGG-LINK-Vivo",
+        "latitude": -22.298820041505056,
+        "longitude": -46.96908777702953,
+        "name": "MGG"
+      },
+      {
+        "key": "FW-MLA-LINK-Life",
+        "latitude": -22.214038770093666,
+        "longitude": -49.852059329612175,
+        "name": "MLA"
+      },
+      {
+        "key": "FW-MLA-LINK-Microset",
+        "latitude": -22.214413553914447,
+        "longitude": -49.85214928201166,
+        "name": "MLA"
+      },
+      {
+        "key": "FW-MLA-LINK-Microset-novo",
+        "latitude": -22.21425833361104,
+        "longitude": -49.85254713961711,
+        "name": "MLA"
+      },
+      {
+        "key": "FW-POA-LINK-Tecnosul",
+        "latitude": -29.871489528810685,
+        "longitude": -51.244752922033605,
+        "name": "POA"
+      },
+      {
+        "key": "FW-RMSP-LINK-Microset-Fibra",
+        "latitude": -23.598363419614408,
+        "longitude": -46.80589127805936,
+        "name": "RMSP"
+      },
+      {
+        "key": "FW-RMSP-LINK-Microset-Radio",
+        "latitude": -23.5982417593686,
+        "longitude": -46.80548540393497,
+        "name": "RMSP"
+      },
+      {
+        "key": "FW-RMSPII-LINK-Unitelco",
+        "latitude": -23.510469617211,
+        "longitude": -46.81913284419,
+        "name": "RMSPII"
+      },
+      {
+        "key": "FW-RMSPII-LINK-Voguel",
+        "latitude": -23.51080522540645,
+        "longitude": -46.818255345904085,
+        "name": "RMSPII"
+      },
+      {
+        "key": "FW-RPI-LINK-MdTelecom",
+        "latitude": -21.093949376029567,
+        "longitude": -47.80306266272927,
+        "name": "RPI"
+      },
+      {
+        "key": "FW-RPI-LINK-Vivo",
+        "latitude": -21.093669791706397,
+        "longitude": -47.80326939300758,
+        "name": "RPI"
+      },
+      {
+        "key": "FW-VGS-LINK-Microset",
+        "latitude": -21.830474856999118,
+        "longitude": -46.9356405478754,
+        "name": "VGS"
+      },
+      {
+        "key": "FW-VGS-LINK-Vivo",
+        "latitude": -21.83034909796368,
+        "longitude": -46.9356807508803,
+        "name": "VGS"
+      }
+    ]
